@@ -52,10 +52,3 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/wdavidcalsin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wdavidcalsin&show_icons=true&theme=radical&line_height=27&include_all_commits=true" alt="" />
 </a>
-
-<a href="https://github.com/nestjs/nest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nestjs&repo=nest&theme=radical" />
-</a>    
-<a href="https://github.com/react-hook-form/react-hook-form">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=react-hook-form&repo=react-hook-form&theme=radical" />
-</a>
