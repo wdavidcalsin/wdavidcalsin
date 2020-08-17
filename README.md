@@ -19,12 +19,12 @@
 Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
 <br />
 
-- 🏆 Subscribe to my newsletter [here](https://yonicalsin.netlify.app/)
+- 🏆 Subscribe to my newsletter [here](https://wdavidcalsin.netlify.app/)
 - 🌍 My web development blog [yonicalsin.netlify.app](https://wdavidcalsin.netlify.app/)
 - 🔭 I’m currently working on my project [Dotenv Cloack](https://github.com/wdavidcalsin/dotenv-cloack)
 - 🌱 I’m currently learning [Dart](https://dart.dev/) & [Flutter](https://flutter.dev/) & [Firebase](https://firebase.google.com/) & Android
 - 👯 I’m looking to collaborate on [NestJs](https://github.com/nestjs/nest)
-- 💬 Ask me about anything [here](https://github.com/yonicalsin/yonicalsin/issues)
+- 💬 Ask me about anything [here](https://github.com/wdavidcalsin/wdavidcalsin/issues)
 
 **Languages and Tools:**
 
