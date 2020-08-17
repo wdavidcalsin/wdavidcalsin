@@ -1,4 +1,4 @@
-## Hi there, I'm [David Calsin!](https://yonicalsin.netlify.app/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
+## Hi there, I'm [WDavid Calsin!](https://wdavidcalsin.netlify.app/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
 <a href="https://codesandbox.io/u/wdavidcalsin" target="blank">
   <img align="left" alt="David Calsin | CodeSandbox" width="20px" src="https://cdn.svgporn.com/logos/codesandbox.svg" />
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm David Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
+Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
 <br />
 
 - 🏆 Subscribe to my newsletter [here](https://yonicalsin.netlify.app/)
@@ -31,22 +31,22 @@ Hi, I'm David Calsin, a passionate self-taught web developer (frontend, backend)
 <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/graphql.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/nextjs.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/nestjs.svg"></code>
+<!-- <code><img height="20" src="https://cdn.svgporn.com/logos/graphql.svg"></code> -->
+<!-- <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code> -->
+<!-- <code><img height="20" src="https://cdn.svgporn.com/logos/nextjs.svg"></code> -->
+<!-- <code><img height="20" src="https://cdn.svgporn.com/logos/nestjs.svg"></code> -->
 <code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/gatsby.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/php.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/laravel.svg"></code>
+<!-- <code><img height="20" src="https://cdn.svgporn.com/logos/laravel.svg"></code> -->
 <code><img height="20" src="https://cdn.svgporn.com/logos/sass.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/figma.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/jquery.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/apollostack.svg"></code>
+<!-- <code><img height="20" src="https://cdn.svgporn.com/logos/apollostack.svg"></code> -->
 <code><img height="20" src="https://cdn.svgporn.com/logos/vue.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/flutter.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/dart.svg"></code>
+<!-- <code><img height="20" src="https://cdn.svgporn.com/logos/flutter.svg"></code> -->
+<!-- <code><img height="20" src="https://cdn.svgporn.com/logos/dart.svg"></code> -->
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
