@@ -16,7 +16,7 @@
 </a>
 <br />
 <br/>
-<img align="center" alt="Welcome" width="100%" src="https://github.com/wdavidcalsin/wdavidcalsin/blob/master/welcome.gif" />
+<img align="center" alt="Welcome" width="100%" src="https://github.com/wdavidcalsin/wdavidcalsin/blob/master/github_profile.gif" />
 
 <br />
 
