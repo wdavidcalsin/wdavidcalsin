@@ -1,6 +1,6 @@
 ## Hi there, I'm [WDavid Calsin!](https://wdavidcalsin.netlify.app/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
-<img align="center" alt="Welcome" width="100%" src="https://github.com/wdavidcalsin/wdavidcalsin/blob/master/welcome.gif" />
+
 
 <a href="https://codesandbox.io/u/wdavidcalsin" target="blank">
   <img align="left" alt="David Calsin | CodeSandbox" width="20px" src="https://cdn.svgporn.com/logos/codesandbox.svg" />
@@ -15,6 +15,7 @@
   <img align="left" alt="David Calsin | Medium" width="21px" src="https://cdn.svgporn.com/logos/medium.svg" />
 </a>
 
+<img align="center" alt="Welcome" width="100%" src="https://github.com/wdavidcalsin/wdavidcalsin/blob/master/welcome.gif" />
 <br />
 <br />
 
