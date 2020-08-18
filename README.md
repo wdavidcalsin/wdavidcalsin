@@ -14,9 +14,9 @@
 <a href="http://medium.com/@wdavidcalsin" target="blank">
   <img align="left" alt="David Calsin | Medium" width="21px" src="https://cdn.svgporn.com/logos/medium.svg" />
 </a>
-
-<img align="center" alt="Welcome" width="100%" src="https://github.com/wdavidcalsin/wdavidcalsin/blob/master/welcome.gif" />
 <br />
+<img align="center" alt="Welcome" width="100%" src="https://github.com/wdavidcalsin/wdavidcalsin/blob/master/welcome.gif" />
+
 <br />
 
 Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
