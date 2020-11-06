@@ -50,9 +50,9 @@ Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
-<a href="https://github.com/wdavidcalsin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcalsin&layout=compact&theme=dracula" />
-</a>
+[//]:<a href="https://github.com/wdavidcalsin">
+[//]:  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcalsin&layout=compact&theme=dracula" />
+[//]:</a>
 <a href="https://github.com/wdavidcalsin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wdavidcalsin&show_icons=true&theme=dracula&line_height=27&include_all_commits=true" alt="" />
 </a>
