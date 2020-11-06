@@ -44,6 +44,8 @@ Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend
 <code><img height="20" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/prettier.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
+
 
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
