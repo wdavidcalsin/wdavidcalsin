@@ -23,8 +23,7 @@
 Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
 <br />
 
-- 🌍 My web development blog [wdavidcalsin.netlify.app](https://wdavidcalsin.netlify.app/)
-- 🔭 I’m currently working on my project [Dotenv Cloack](https://github.com/wdavidcalsin/dotenv-cloack)
+- 🌍 My web development blog [wdavidcalsin.netlify.app](https://wdavidcalsin.vercel.app/)
 
 - 💬 Ask me about anything [here](https://github.com/wdavidcalsin/wdavidcalsin/issues)
 
