@@ -1,6 +1,4 @@
-## Hi there, I'm [WDavid Calsin!](https://wdavidcalsin.netlify.app/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
-
-
+## Hi there, I'm [WDavid Calsin!](https://wdavidcalsin.vercel.app/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
 <a href="https://codesandbox.io/u/wdavidcalsin" target="blank">
   <img align="left" alt="David Calsin | CodeSandbox" width="20px" src="https://cdn.svgporn.com/logos/codesandbox.svg" />
@@ -23,9 +21,9 @@
 Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
 <br />
 
-- 🌍 My web development blog [wdavidcalsin.vercel.app](https://wdavidcalsin.vercel.app/)
+-  🌍 My web development blog [wdavidcalsin.vercel.app](https://wdavidcalsin.vercel.app/)
 
-- 💬 Ask me about anything [here](https://github.com/wdavidcalsin/wdavidcalsin/issues)
+-  💬 Ask me about anything [here](https://github.com/wdavidcalsin/wdavidcalsin/issues)
 
 **Languages and Tools:**
 
@@ -42,16 +40,12 @@ Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend
 <code><img height="20" src="https://cdn.svgporn.com/logos/vue.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/prettier.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
 
+[//]: <a href="https://github.com/wdavidcalsin">
+[//]: <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcalsin&layout=compact&theme=dracula" />
+[//]: /a
 
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
-
-[//]:<a href="https://github.com/wdavidcalsin">
-[//]:  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcalsin&layout=compact&theme=dracula" />
-[//]:</a>
 <a href="https://github.com/wdavidcalsin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wdavidcalsin&show_icons=true&theme=dracula&line_height=27&include_all_commits=true" alt="" />
 </a>
