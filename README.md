@@ -30,16 +30,15 @@ Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend
 <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/bulma.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/php.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/sass.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/figma.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/vue.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
+
 
 [//]: <a href="https://github.com/wdavidcalsin">
 [//]: <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcalsin&layout=compact&theme=dracula" />
