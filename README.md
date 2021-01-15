@@ -44,6 +44,4 @@ Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend
 [//]: <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcalsin&layout=compact&theme=dracula" />
 [//]: /a
 
-<a href="https://github.com/wdavidcalsin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wdavidcalsin&show_icons=true&theme=dracula&line_height=27&include_all_commits=true" alt="" />
-</a>
+
