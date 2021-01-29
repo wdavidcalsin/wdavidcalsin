@@ -31,6 +31,7 @@ Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend
 <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/express.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/bulma.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/sass.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
