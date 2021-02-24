@@ -18,7 +18,6 @@ Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend
 
 -  🌍 My web development blog [wdavidcalsin.vercel.app](https://wdavidcalsin.vercel.app/)
 
--  💬 Ask me about anything [here](https://github.com/wdavidcalsin/wdavidcalsin/issues)
 
 **Languages and Tools:**
 
