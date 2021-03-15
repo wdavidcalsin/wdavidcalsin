@@ -6,6 +6,9 @@
 <a href="http://instagram.com/wdavidcalsin" target="blank">
   <img align="left" alt="David Calsin | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
 </a>
+<a href="https://dev.to/wdavidcalsin" target="blank">
+  <img align="left" alt="David Calsin | Devto" width="21px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />
+</a>
 
 <br />
 <br/>
