@@ -16,7 +16,6 @@
 Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
 <br />
 
--  🌍 My web development blog [wdavidcalsin.vercel.app](https://wdavidcalsin.vercel.app/)
 
 
 **Languages and Tools:**
