@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm WDavid Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
+A passionate self-taught web developer (frontend, backend) from Peru.
 <br />
 
 
