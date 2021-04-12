@@ -20,8 +20,9 @@ A passionate self-taught web developer (frontend, backend) from Peru.
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
+
 <code><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/express.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
