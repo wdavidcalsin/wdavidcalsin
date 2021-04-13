@@ -13,7 +13,7 @@
 
 <br />
 
-A passionate self-taught web developer (frontend, backend) from Peru.
+A passionate self-taught web developer (frontend, backend).
 <br />
 
 
