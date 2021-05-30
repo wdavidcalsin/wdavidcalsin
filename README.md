@@ -37,6 +37,7 @@ A passionate self-taught web developer (frontend, backend).
 <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/sass.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/sass.svg"></code>
 
 
 
