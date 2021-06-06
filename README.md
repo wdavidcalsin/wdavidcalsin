@@ -1,7 +1,7 @@
 ### Hi there, I'm [WDavid Calsin!](https://wdavidcalsin.vercel.app/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
 <a href="https://twitter.com/wdavidcalsin" target="blank">
-  <img align="left" alt="David Calsin | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
+  <img align="left" alt="David Calsin | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />a
 </a>
 <a href="https://dev.to/wdavidcalsin" target="blank">
   <img align="left" alt="David Calsin | Devto" width="21px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />
