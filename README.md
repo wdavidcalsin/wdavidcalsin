@@ -22,7 +22,7 @@
   </a>
 </p>
 
-A passionate self-taught web developer (frontend, backend).
+A passionate self-taught web developer Frontend.
 <br />
 
 
