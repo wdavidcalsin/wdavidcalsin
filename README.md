@@ -3,8 +3,8 @@
 <a href="https://twitter.com/wdavidcalsin" target="blank">
   <img align="left" alt="David Calsin | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
 </a>
-<a href="https://dev.to/wdavidcalsin" target="blank">
-  <img align="left" alt="David Calsin | Devto" width="21px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />
+<a href="https://www.linkedin.com/in/williandavidcalsin/" target="blank">
+  <img align="left" alt="David Calsin | Devto" width="21px" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9ee8efb1-8908-454a-8a25-b7efb3d9b304/Logo-Linkedin.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230217T042258Z&X-Amz-Expires=86400&X-Amz-Signature=55e1a110aa028be26af08fdb63f679222ce99bc6121aa59958bc470a7493d7a1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Logo-Linkedin.png%22&x-id=GetObject" />
 </a>
 
 <br />
@@ -15,10 +15,6 @@
 <p>
   <a href="https://twitter.com/intent/follow?screen_name=wdavidcalsin">
     <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @wdavidcalsin on Twitter" title="Follow @wdavidcalsin on Twitter">
-  </a>
-
-  <a href="https://github.com/sponsors/wdavidcalsin">
-    <img src="https://user-images.githubusercontent.com/7629661/87821425-1f956c00-c870-11ea-9871-a76f99739501.png" width="156" alt="Sponsor wdavidcalsin on GitHub" title="Sponsor wdavidcalsin on GitHub">
   </a>
 </p>
 
@@ -45,4 +41,3 @@ A passionate self-taught web developer Frontend.
 [//]: <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcalsin&layout=compact&theme=dracula" />
 [//]: /a
 
-------》
