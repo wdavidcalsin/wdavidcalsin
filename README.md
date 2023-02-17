@@ -4,7 +4,7 @@
   <img align="left" alt="David Calsin | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/williandavidcalsin/" target="blank">
-  <img align="left" alt="David Calsin | Devto" width="21px" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9ee8efb1-8908-454a-8a25-b7efb3d9b304/Logo-Linkedin.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230217T042258Z&X-Amz-Expires=86400&X-Amz-Signature=55e1a110aa028be26af08fdb63f679222ce99bc6121aa59958bc470a7493d7a1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Logo-Linkedin.png%22&x-id=GetObject" />
+  <img align="left" alt="David Calsin | Devto" width="21px" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/73524255-8292-49a5-adb6-947cd79b6ed2/174857.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230217T042643Z&X-Amz-Expires=86400&X-Amz-Signature=ea9a8a722cd1669cdbab1ee3ce53edde2493c7d2354f6a825a9cebb982ed5dc0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22174857.png%22&x-id=GetObject" />
 </a>
 
 <br />
