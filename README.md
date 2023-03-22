@@ -4,7 +4,7 @@
   <img align="left" alt="David Calsin | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/williandavidcalsin/" target="blank">
-  <img align="left" alt="David Calsin | Linkedin" width="21px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
+  <img align="left" alt="David Calsin | Linkedin" width="21px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />
 </a>
 
 <br />
